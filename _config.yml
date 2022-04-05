@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: MediaBoard
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Devops, Developer and CyberSecurity Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/17817614?s=400&u=e1fe4ddd8a9776b946f5330d07978a88d61f3036&v=4https://avatars.githubusercontent.com/u/17817614?s=400&u=e1fe4ddd8a9776b946f5330d07978a88d61f3036&v=4
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: moises.bueso@bystechnologies.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: MediaBoard
   instagram:
-  linkedin:
+  linkedin: moises-bueso-b75845b8
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: mebueso
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
