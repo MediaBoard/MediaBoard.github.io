@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Biulding a Personal blog in Windows with Jekyll and Github Pages
----
 published: true
 ---
 ## Creating a Personal Blog with static Github Pages
